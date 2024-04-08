@@ -1,0 +1,23 @@
+.titulos{
+    padding-top: 4%;
+    padding-bottom: 2%;
+    padding-left: 40%;
+    padding-right: 30%;
+}
+
+.MenuComida{
+    float: right;
+    padding-right: 23%;
+    padding-top: 14%;
+}
+.CartaTragos{
+    float: inherit;
+}
+
+#Foto1{
+    padding-right:10% ;
+}
+
+#Foto2{
+    margin-left: 50%;
+}
