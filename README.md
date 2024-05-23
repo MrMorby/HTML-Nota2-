@@ -1,4 +1,4 @@
 Integrantes: 
 Veronica Cabezas-
 Diego Acevedo-
-Walter Haack-
+Walter Haack
